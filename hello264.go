@@ -1,3 +1,5 @@
+// Copyright 2024 Dominik Zeromski. All rights reserved.
+
 package main
 
 import (

@@ -39,3 +39,6 @@ Replace input.yuv with the path to your raw YUV420P data and output.h264 with th
 Inspired by 
 * [World’s Smallest H.264 Encoder](https://www.cardinalpeak.com/blog/worlds-smallest-h-264-encoder) 
 * [A minimal h264 “encoder”](https://jordicenzano.name/2014/08/31/the-source-code-of-a-minimal-h264-encoder-c/)
+
+## License
+This project is licensed under the Apache License - see the LICENSE file for details.
